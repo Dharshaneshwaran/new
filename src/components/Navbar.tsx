@@ -26,7 +26,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
    <img
-  src="src/public/ramnagar suburban.png"
+  src="src/public/ramnagarsuburban.png"
   alt="School Logo"
   className="h-10 w-10 object-contain mr-2"
 />
